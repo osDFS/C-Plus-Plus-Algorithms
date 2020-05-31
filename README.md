@@ -1,3 +1,8 @@
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/osdfs/shared_invite/zt-eecws9vb-zvmzBeSPgBZrE9RWVj43Sw)
+
+- Join osDFS on Slack and then search for `#c-plus-plus-algo`
+
 # CPP-Algorithms
 ### All algorithms implemented in C++ (for education)
 The implementations are for learning purpose. They may be less efficient than the implementation in the standard library.
